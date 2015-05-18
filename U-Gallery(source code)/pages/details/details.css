@@ -1,0 +1,9 @@
+﻿.details section[role=main] {
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+#details{
+    margin-top:50px;
+    width: 300px;
+}

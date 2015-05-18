@@ -1,0 +1,30 @@
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bin\Debug\ReverseMap\resources.pri
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bin\Debug\AppxManifest.xml
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bin\Debug\U-Gallery.build.appxrecipe
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\priconfig.xml
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\priconfig.xml.intermediate
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\layout.resfiles
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\layout.resfiles.intermediate
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\resources.resfiles
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\resources.resfiles.intermediate
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\pri.resfiles
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\pri.resfiles.intermediate
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\qualifiers.txt
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\qualifiers.txt.intermediate
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\gihangtn\documents\visual studio 2013\Projects\U-Gallery\bld\Debug\ProjectArchitectures.txt
+C:\Git_ROOT\Windows-8-App\U-Gallery\bin\Debug\ReverseMap\resources.pri
+C:\Git_ROOT\Windows-8-App\U-Gallery\bin\Debug\AppxManifest.xml
+C:\Git_ROOT\Windows-8-App\U-Gallery\bin\Debug\U-Gallery.build.appxrecipe
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\priconfig.xml
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\priconfig.xml.intermediate
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\layout.resfiles
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\layout.resfiles.intermediate
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\resources.resfiles
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\resources.resfiles.intermediate
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\pri.resfiles
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\pri.resfiles.intermediate
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\qualifiers.txt
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\qualifiers.txt.intermediate
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Git_ROOT\Windows-8-App\U-Gallery\bld\Debug\ProjectArchitectures.txt

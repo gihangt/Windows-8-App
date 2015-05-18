@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GIHAN</Machine>
+    <WindowsUser>Gihan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c75f16b7-aeac-428a-a3e2-081afcf56080</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Git_ROOT\Windows-8-App\U-Gallery\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\add\add.css">
+      <PackagePath>pages\add\add.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\details\details.css">
+      <PackagePath>pages\details\details.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\autumn.jpg">
+      <PackagePath>images\db\autumn.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\autumns.jpg">
+      <PackagePath>images\db\autumns.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\car1.JPG">
+      <PackagePath>images\db\car1.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\nishani.jpg">
+      <PackagePath>images\db\nishani.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\dark.jpg">
+      <PackagePath>images\db\dark.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\dirty.jpg">
+      <PackagePath>images\db\dirty.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\ginkgo.jpg">
+      <PackagePath>images\db\ginkgo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\land.jpg">
+      <PackagePath>images\db\land.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\landscape.jpg">
+      <PackagePath>images\db\landscape.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\mountain.jpg">
+      <PackagePath>images\db\mountain.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\mountains.jpg">
+      <PackagePath>images\db\mountains.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\umbrellas.jpg">
+      <PackagePath>images\db\umbrellas.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\weather.jpg">
+      <PackagePath>images\db\weather.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\db\camerarll.png">
+      <PackagePath>images\db\camerarll.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\js\Gallery.js">
+      <PackagePath>js\Gallery.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\js\instantPhoto.js">
+      <PackagePath>js\instantPhoto.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\js\jpegmeta.js">
+      <PackagePath>js\jpegmeta.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\js\location.js">
+      <PackagePath>js\location.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\add\add.js">
+      <PackagePath>pages\add\add.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\details\details.js">
+      <PackagePath>pages\details\details.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\add\add.html">
+      <PackagePath>pages\add\add.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\details\details.html">
+      <PackagePath>pages\details\details.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\headerfooter\footer.html">
+      <PackagePath>pages\headerfooter\footer.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\headerfooter\header.html">
+      <PackagePath>pages\headerfooter\header.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\pages\map\map.html">
+      <PackagePath>pages\map\map.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git_ROOT\Windows-8-App\U-Gallery\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

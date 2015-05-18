@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>add</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <link href="add.css" rel="stylesheet" />
+    <script src="add.js"></script>
+</head>
+<body>
+    <div class="add fragment">
+        <header aria-label="Header content" role="banner">
+            <button data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span class="pagetitle">Add me!</span>
+            </h1>
+        </header>
+        <section aria-label="Main content" role="main">
+            <div  id="containerclick" class="center">
+                <img id="imgPhoto" src="/images/db/camerarll.png" />
+                <div class ="loc" id="latitude">
+
+                </div>
+                <div class="loc"  id="longitude">
+
+                </div>
+            </div>
+           
+            <div class="map">
+                <iframe id="map" class="graphic" src="ms-appx-web:///pages/map/map.html" aria-label="Map">
+
+                </iframe>
+                <button id="buttonshare">Share</button>
+            </div>
+
+            
+</section>
+    </div>
+</body>
+</html>
